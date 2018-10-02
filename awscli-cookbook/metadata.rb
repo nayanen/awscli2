@@ -11,4 +11,3 @@ issues_url 'https://github.com/awslabs/awscli-cookbook/issues' if respond_to?(:i
 supports 'ubuntu'
 supports 'centos'
 
-depends 'python', '~> 1.4'
